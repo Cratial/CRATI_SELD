@@ -31,8 +31,9 @@ Please cite our paper if you use any part of our source code or data in your res
 The source codebase is coming soon...
 
 ## SELD outputs visualization
-https://github.com/Cratial/CRATI_SELD/blob/main/viz/video_frame.png
-video：https://github.com/Cratial/CRATI_SELD/blob/main/viz/crati_seld_starss23.mp4
+![seld outputs](https://github.com/Cratial/CRATI_SELD/blob/main/viz/video_frame.png)
+
+[video](https://github.com/Cratial/CRATI_SELD/blob/main/viz/crati_seld_starss23.mp4)
 
 ## Code References
 
