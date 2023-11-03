@@ -39,6 +39,7 @@ The source codebase is coming soon...
 
 In this Codebase, we utilize code from the following source(s):
 
-*   [crnn-based seld](https://github.com/sharathadavanne/seld-dcase2022)
+*   [crnn-based seld DCASE2023-audio-track](https://github.com/sharathadavanne/seld-dcase2023)
+*   [crnn-based seld DCASE2023-audio-visual-track](https://github.com/sony/audio-visual-seld-dcase2023)
 *   [einv2-based seld](https://github.com/Jinbo-Hu/DCASE2022-TASK3)
 
